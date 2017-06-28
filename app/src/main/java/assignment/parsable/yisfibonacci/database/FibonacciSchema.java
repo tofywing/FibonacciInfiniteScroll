@@ -1,7 +1,7 @@
 package assignment.parsable.yisfibonacci.database;
 
 /**
- * Created by Yee on 6/20/17.
+ * Created by Yee on 6/27/17.
  */
 
 public class FibonacciSchema {
